@@ -24,9 +24,11 @@ I'm always open to collaboration, learning, and contributing to open source.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TwinedM&show_icons=true&theme=default)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwinedM&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TwinedM&show_icons=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TwinedM&layout=compact&langs_count=6)
 
 ## 🔥 Streak Stats
 
