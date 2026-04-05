@@ -8,6 +8,8 @@ My main tech stack is Python-based machine learning and deep learning, using PyT
 
 I'm always open to collaboration, learning, and contributing to open source.
 
+Gmail - PeeueshChauhan24@gmail.com
+
 ---
 
 ## 🚀 Tech Stack
@@ -22,7 +24,6 @@ I'm always open to collaboration, learning, and contributing to open source.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -36,13 +37,8 @@ I'm always open to collaboration, learning, and contributing to open source.
 
 ---
 
-## 📌 Featured Projects
-- Add your best ML project here (very important)
-- Add GitHub repo links
-- Add 1-line impact (accuracy / idea / deployment)
-
----
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/peeuesh-chauhan)
+
