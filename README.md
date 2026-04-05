@@ -24,15 +24,13 @@ I'm always open to collaboration, learning, and contributing to open source.
 
 ## 📊 GitHub Stats
 
-![Peeuesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwinedM&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=TwinedM&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwinedM&layout=compact&hide_border=true)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwinedM&layout=compact)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TwinedM&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=TwinedM)
 
 ---
 
